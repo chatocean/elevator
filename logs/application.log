@@ -1,0 +1,112 @@
+[20/Sep/2015:22:40:57] (demo) Transport from F6 down to F1
+[20/Sep/2015:22:40:57] (demo) Transport from F5 up to F7
+[20/Sep/2015:22:40:57] (demo) Transport from F3 down to F1
+[20/Sep/2015:22:40:57] (demo) Transport from F1 up to F7
+[20/Sep/2015:22:40:57] (demo) In F1
+[20/Sep/2015:22:40:57] (demo) Open door at F1
+[20/Sep/2015:22:40:57] (demo) Close door at F1
+[20/Sep/2015:22:40:57] (demo) Move up F2
+==========
+[20/Sep/2015:22:40:57] (demo) In F2
+[20/Sep/2015:22:40:57] (demo) Move up F3
+==========
+[20/Sep/2015:22:40:57] (demo) In F3
+[20/Sep/2015:22:40:57] (demo) Move up F4
+==========
+[20/Sep/2015:22:40:57] (demo) In F4
+[20/Sep/2015:22:40:57] (demo) Move up F5
+==========
+[20/Sep/2015:22:40:57] (demo) In F5
+[20/Sep/2015:22:40:57] (demo) Open door at F5
+[20/Sep/2015:22:40:57] (demo) Close door at F5
+[20/Sep/2015:22:40:57] (demo) Move up F6
+==========
+[20/Sep/2015:22:40:57] (demo) In F6
+[20/Sep/2015:22:40:57] (demo) Move up F7
+==========
+[20/Sep/2015:22:40:57] (demo) In F7
+[20/Sep/2015:22:40:57] (demo) Open door at F7
+[20/Sep/2015:22:40:57] (demo) Close door at F7
+[20/Sep/2015:22:40:57] (demo) Switch direction from up to 
+[20/Sep/2015:22:40:57] (demo) Move down F6
+==========
+[20/Sep/2015:22:40:57] (demo) In F6
+[20/Sep/2015:22:40:57] (demo) Open door at F6
+[20/Sep/2015:22:40:57] (demo) Close door at F6
+[20/Sep/2015:22:40:57] (demo) Move down F5
+==========
+[20/Sep/2015:22:40:57] (demo) In F5
+[20/Sep/2015:22:40:57] (demo) Move down F4
+==========
+[20/Sep/2015:22:40:57] (demo) In F4
+[20/Sep/2015:22:40:57] (demo) Move down F3
+==========
+[20/Sep/2015:22:40:57] (demo) In F3
+[20/Sep/2015:22:40:57] (demo) Open door at F3
+[20/Sep/2015:22:40:57] (demo) Close door at F3
+[20/Sep/2015:22:40:57] (demo) Move down F2
+==========
+[20/Sep/2015:22:40:57] (demo) In F2
+[20/Sep/2015:22:40:57] (demo) Move down F1
+==========
+[20/Sep/2015:22:40:57] (demo) In F1
+[20/Sep/2015:22:40:57] (demo) Open door at F1
+[20/Sep/2015:22:40:57] (demo) Close door at F1
+[20/Sep/2015:22:40:57] (demo) Elevator stand at F1
+==========
+[20/Sep/2015:22:41:29] (demo) Transport from F6 down to F1
+[20/Sep/2015:22:41:29] (demo) Transport from F5 up to F7
+[20/Sep/2015:22:41:29] (demo) Transport from F3 down to F1
+[20/Sep/2015:22:41:29] (demo) Transport from F1 up to F7
+[20/Sep/2015:22:41:29] (demo) In F1
+[20/Sep/2015:22:41:29] (demo) Open door at F1
+[20/Sep/2015:22:41:29] (demo) Close door at F1
+[20/Sep/2015:22:41:29] (demo) Move up F2
+==========
+[20/Sep/2015:22:41:29] (demo) In F2
+[20/Sep/2015:22:41:29] (demo) Move up F3
+==========
+[20/Sep/2015:22:41:29] (demo) In F3
+[20/Sep/2015:22:41:29] (demo) Move up F4
+==========
+[20/Sep/2015:22:41:29] (demo) In F4
+[20/Sep/2015:22:41:29] (demo) Move up F5
+==========
+[20/Sep/2015:22:41:29] (demo) In F5
+[20/Sep/2015:22:41:29] (demo) Open door at F5
+[20/Sep/2015:22:41:29] (demo) Close door at F5
+[20/Sep/2015:22:41:29] (demo) Move up F6
+==========
+[20/Sep/2015:22:41:29] (demo) In F6
+[20/Sep/2015:22:41:29] (demo) Move up F7
+==========
+[20/Sep/2015:22:41:29] (demo) In F7
+[20/Sep/2015:22:41:29] (demo) Open door at F7
+[20/Sep/2015:22:41:29] (demo) Close door at F7
+[20/Sep/2015:22:41:29] (demo) Switch direction from up to 
+[20/Sep/2015:22:41:29] (demo) Move down F6
+==========
+[20/Sep/2015:22:41:29] (demo) In F6
+[20/Sep/2015:22:41:29] (demo) Open door at F6
+[20/Sep/2015:22:41:29] (demo) Close door at F6
+[20/Sep/2015:22:41:29] (demo) Move down F5
+==========
+[20/Sep/2015:22:41:29] (demo) In F5
+[20/Sep/2015:22:41:29] (demo) Move down F4
+==========
+[20/Sep/2015:22:41:29] (demo) In F4
+[20/Sep/2015:22:41:29] (demo) Move down F3
+==========
+[20/Sep/2015:22:41:29] (demo) In F3
+[20/Sep/2015:22:41:29] (demo) Open door at F3
+[20/Sep/2015:22:41:29] (demo) Close door at F3
+[20/Sep/2015:22:41:29] (demo) Move down F2
+==========
+[20/Sep/2015:22:41:29] (demo) In F2
+[20/Sep/2015:22:41:29] (demo) Move down F1
+==========
+[20/Sep/2015:22:41:29] (demo) In F1
+[20/Sep/2015:22:41:29] (demo) Open door at F1
+[20/Sep/2015:22:41:29] (demo) Close door at F1
+[20/Sep/2015:22:41:29] (demo) Elevator stand at F1
+==========

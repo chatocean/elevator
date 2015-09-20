@@ -28,3 +28,10 @@ http://chatocean.free4viet.com/elevator/api.php?a=alarm
 http://chatocean.free4viet.com/elevator/api.php?a=request&level=1&direction=up
 
 http://chatocean.free4viet.com/elevator/api.php?a=send&level=5&direction=up
+
+
+View log file: http://chatocean.free4viet.com/elevator/log.php
+License
+---------------------
+Copyright (c) 2015 chatocean <chatocean@gmail.com>
+All rights reserved.
