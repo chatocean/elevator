@@ -1,3 +1,6 @@
 # Elevator Demo class
-Demo Test Elevator
-AAA
+Introduction
+------------
+A comprehensive library for generating differences between
+two hashable objects (strings or arrays). Generated differences can be
+rendered in all of the standard formats including:
