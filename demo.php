@@ -2,7 +2,7 @@
 require_once("config/config.php");
 echo "<pre>";
 
-echo "Start Setup sample data=======<br />";
+echo "<h3>Start Setup sample data</h3><br />=======<br />";
 $e = new Elevator();
 echo "Elevator standing in first floor. <br />";
 $e->setCurrentFloor(1);
@@ -29,16 +29,33 @@ echo "Request from ground go up to 7th floor. <br />";
 //$e->moveToFloor(7, "up");
 $e->transport(1, 7);
 
-//echo "Request from 5th floor go down to 4th floor. <br />";$e->requestFloor(6, "down");
-//$e->requestFloor(5, "down");
-//$e->moveToFloor(4, "down");
-//$e->transport(5, 4);
+echo "<h3>Finish Setup sample data.</h3><br />===========================<br />";
+echo "<h3>Evelator data:</h3><br />";
+echo "Current floor level <strong>#" . $e->getCurrentFloor() . "</strong><br />";
+echo "Current direction <strong>" . $e->getDirection() . "</strong><br />";
+echo "Maintenance floors: <br />";
+echo "<ul>";
+$maintenanceFloors = $e->getMaintenanceFloors();
+foreach($maintenanceFloors as $f) {
+  echo "<li>";
+  echo "Floor level: <strong>#{$f}</strong>";
+  echo "</li>";
+}
+echo "</ul>";
 
-
-print_r($e);
-echo "Finish Setup sample data.<br />===========================<br /><br /><br /><br />";
-
+echo "List of requested floor sorted by direction: <br />";
+echo "<ul>";
+$requestedFloors = $e->getRequestedFloors();
+foreach($requestedFloors as $f) {
+  echo "<li>";
+  echo "Direction: <strong>" . $f->direction . "</strong> - ";
+  echo "Floor level: <strong>#" . $f->level . "</strong>";
+  echo "</li>";
+}
+echo "</ul>";
+echo "<br />===========================<br /><br /><br />";
+echo "<h3>Elevator simulator is running.</h3><br />===========================<br />";
 //evelator run
 $e->run();
-
+echo "<h3>Elevator simulator stopped.</h3><br />===========================<br />";
 echo "</pre>";

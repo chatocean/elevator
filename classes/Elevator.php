@@ -15,7 +15,7 @@ class Elevator {
 
   private $isMoving = false; //boolean
   private $direction; // up, down
-  public $requestedFloors = []; //array requestedFloor
+  private $requestedFloors = []; //array requestedFloor
   private $currentFloor; // current floor
   private $totalFloors;
   private $maintenanceFloors = [];
@@ -162,6 +162,26 @@ class Elevator {
     }
 
     return false;
+  }
+  
+  /*
+   * Get requested floors
+   * Output $requestedFloors
+   */
+
+  public function getRequestedFloors() {
+    
+    return $this->requestedFloors;
+  }
+  
+  /*
+   * Get maintenance floors
+   * Output $requestedFloors
+   */
+
+  public function getMaintenanceFloors() {
+    
+    return $this->maintenanceFloors;
   }
 
   /*
