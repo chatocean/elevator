@@ -6,7 +6,9 @@ This project used to demo Elevator Class Test
 Configure
 -----------
 Open config/config.php
+
 total_floors: this is total of floors in Elevator
+
 maintenance_floors: list of maintenance floors
 
 
