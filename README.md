@@ -13,5 +13,13 @@ maintenance_floors: list of maintenance floors
 Example Use
 -----------
 A quick usage example can be found in the example/ directory and under
-demo.php. Ex: http://chatocean@free4viet.com/elevator/demo.php
+demo.php. Ex: http://chatocean.free4viet.com/elevator/demo.php
 
+Api demo at api.php. Ex: http://chatocean.free4viet.com/elevator/api.php
+
+Below is sample api:
+http://chatocean.free4viet.com/elevator/api.php?a=open_door
+http://chatocean.free4viet.com/elevator/api.php?a=close_door
+http://chatocean.free4viet.com/elevator/api.php?a=alarm
+http://chatocean.free4viet.com/elevator/api.php?a=request&level=1&direction=up
+http://chatocean.free4viet.com/elevator/api.php?a=send&level=5&direction=up
